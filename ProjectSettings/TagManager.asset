@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactivo
+  - Pared
+  - Item Arma 1
+  - Item Arma 2
+  - Item Arma 3
+  - Item Arma 4
+  - Item Arma 5
+  - Enemigo
+  - Jugador
+  - Item
+  - Walk Points
+  - Punteros
+  - Bala 1
+  - Bala 2
+  - Bala 3
+  - Bala 4
+  - Bala 5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sombra
+    uniqueID: 343336597
+    locked: 0
+  - name: UI
+    uniqueID: 3486246297
+    locked: 0
